@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/armsomboon2/49ddb622-8ac3-42a8-bde3-504ef65987c2/613c0b86-9873-4761-81f7-d6a20d23277d/_apis/work/boardbadge/e57b87fd-a601-4889-8578-d7dab39e2d94)](https://dev.azure.com/armsomboon2/49ddb622-8ac3-42a8-bde3-504ef65987c2/_boards/board/t/613c0b86-9873-4761-81f7-d6a20d23277d/Microsoft.RequirementCategory)
 # Armsombon
